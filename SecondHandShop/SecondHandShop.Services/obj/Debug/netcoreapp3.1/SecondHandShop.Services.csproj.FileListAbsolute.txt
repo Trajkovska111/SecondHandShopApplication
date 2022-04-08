@@ -1,0 +1,14 @@
+C:\Users\Marija\source\repos\SecondHandShop\SecondHandShop.Services\obj\Debug\netcoreapp3.1\SecondHandShop.Services.csproj.AssemblyReference.cache
+C:\Users\Marija\source\repos\SecondHandShop\SecondHandShop.Services\obj\Debug\netcoreapp3.1\SecondHandShop.Services.AssemblyInfoInputs.cache
+C:\Users\Marija\source\repos\SecondHandShop\SecondHandShop.Services\obj\Debug\netcoreapp3.1\SecondHandShop.Services.AssemblyInfo.cs
+C:\Users\Marija\source\repos\SecondHandShop\SecondHandShop.Services\obj\Debug\netcoreapp3.1\SecondHandShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\Marija\source\repos\SecondHandShop\SecondHandShop.Services\bin\Debug\netcoreapp3.1\SecondHandShop.Services.deps.json
+C:\Users\Marija\source\repos\SecondHandShop\SecondHandShop.Services\bin\Debug\netcoreapp3.1\SecondHandShop.Services.dll
+C:\Users\Marija\source\repos\SecondHandShop\SecondHandShop.Services\bin\Debug\netcoreapp3.1\SecondHandShop.Services.pdb
+C:\Users\Marija\source\repos\SecondHandShop\SecondHandShop.Services\bin\Debug\netcoreapp3.1\SecondHandShop.Domain.dll
+C:\Users\Marija\source\repos\SecondHandShop\SecondHandShop.Services\bin\Debug\netcoreapp3.1\SecondHandShop.Repository.dll
+C:\Users\Marija\source\repos\SecondHandShop\SecondHandShop.Services\bin\Debug\netcoreapp3.1\SecondHandShop.Domain.pdb
+C:\Users\Marija\source\repos\SecondHandShop\SecondHandShop.Services\bin\Debug\netcoreapp3.1\SecondHandShop.Repository.pdb
+C:\Users\Marija\source\repos\SecondHandShop\SecondHandShop.Services\obj\Debug\netcoreapp3.1\SecondHandShop.Services.csproj.CopyComplete
+C:\Users\Marija\source\repos\SecondHandShop\SecondHandShop.Services\obj\Debug\netcoreapp3.1\SecondHandShop.Services.dll
+C:\Users\Marija\source\repos\SecondHandShop\SecondHandShop.Services\obj\Debug\netcoreapp3.1\SecondHandShop.Services.pdb
